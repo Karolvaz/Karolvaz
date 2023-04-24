@@ -18,7 +18,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
- 
-<br />
-
-![Snake animation](https://github.com/Karolvaz/Karolvaz/blob/output/github-contribution-grid-snake.svg)
